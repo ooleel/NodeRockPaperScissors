@@ -1,15 +1,5 @@
-This program . 
+This program allows the player to play Rock Paper Scissors against the server. 
 
-To run the program, type to the terminal a command following this syntax:
-- if you want to **encode** or **decode** a message: 
-`$ node super-encoder.js <encode/decode>`
-- if you want to use any of the ciphers (**caesar, symbol, reverse**):
-`$ node message-mixer.js <caesar/symbol/reverse>`
-
-Some examples of commands to run this program:
-
-```
-
-```
+To run the program, type this command to the terminal: `$ node app.js` and change your name is the url as follows `http://localhost:4001/name=` + your name.
 
 ###### A [Codecademy](https://www.codecademy.com/courses/learn-node-js/projects/rock-paper-scissors) Node.js project
